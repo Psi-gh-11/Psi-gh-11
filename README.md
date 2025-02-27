@@ -11,9 +11,7 @@ A **tech enthusiast** with a passion for **cybersecurity, ethical hacking, and s
 - 🖥️ **Software Development** – Writing clean, efficient, and secure code  
 - 🌍 **Lifelong Learning** – Exploring new tools, technologies, and innovations  
 
-## 🛠 Tech Stack  
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-232323?style=for-the-badge&logo=hackthebox&logoColor=white" /> </p>
 
 ## 📊 GitHub Stats  
 
@@ -27,10 +25,6 @@ A **tech enthusiast** with a passion for **cybersecurity, ethical hacking, and s
 🔹 Working on exciting **projects & collaborations**  
 🔹 Expanding my skillset in **software development**  
 
-## 📬 Connect With Me  
-
-📧 **Reach out via:** <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;your_email@example.com">Mail</a>
-  
 
 🚀 _Embracing challenges, solving problems, and building a secure digital future!_ 🚀  
 
