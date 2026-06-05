@@ -10,12 +10,7 @@
 <div align="center">
 
 # Prachi Shankar Inamdar
-
-<div style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px 30px; border-radius: 12px; margin: 15px 0;">
-
-### 🛡️ Cybersecurity Student · 🔐 Secure App Developer · 🎯 Ethical Hacking Enthusiast
-
-</div>
+### Cybersecurity Student · Secure App Developer · Ethical Hacking Enthusiast
 
 </div>
 
@@ -23,13 +18,14 @@
 
 ## About
 
-Second-year CSE (Cyber Security) student. I build things with security in mind — from encrypted web apps to hardware-based intrusion detection. Currently exploring network security and packet analysis.
+I build things with security in mind — from encrypted web apps to hardware-based intrusion detection. Currently exploring network security and packet analysis on Kali Linux.
 
 ---
 
 ## Projects
 
-### 🔒 [SecureVault](https://github.com/Psi-gh-11/SecureVault)
+[![SecureVault](https://img.shields.io/badge/🔒_SecureVault-Credential_Management_System-9D4EDD?style=for-the-badge)](https://github.com/Psi-gh-11/SecureVault)
+
 > Password manager with real cryptographic implementation — not just hashing.
 
 | | |
@@ -38,11 +34,12 @@ Second-year CSE (Cyber Security) student. I build things with security in mind �
 | **Auth** | bcrypt master password · OTP 2FA via SMTP email |
 | **Vaults** | Passwords · Cards · Notes · API Keys |
 | **Dashboard** | Live password strength scoring across all credentials |
-| **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D82C20?style=flat&logoColor=white) |
+| **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 
 ---
 
-### 📋 [TaskFolio](https://github.com/Psi-gh-11/TaskFolio-Website)
+[![TaskFolio](https://img.shields.io/badge/📋_TaskFolio-Portfolio_&_Task_Management-9D4EDD?style=for-the-badge)](https://github.com/Psi-gh-11/TaskFolio-Website)
+
 > Full-stack task manager and portfolio builder with session-based authentication.
 
 | | |
@@ -50,11 +47,12 @@ Second-year CSE (Cyber Security) student. I build things with security in mind �
 | **Auth** | `password_hash()` · `password_verify()` · 30-day remember-me tokens |
 | **Features** | Task manager · Portfolio builder · User dashboard · Settings |
 | **Storage** | MySQL-backed per-user data persistence |
-| **Stack** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| **Stack** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
 
 ---
 
-### 🚨 [Laser Security System](https://github.com/Psi-gh-11/Laser-Security-System)
+[![Laser Security System](https://img.shields.io/badge/🚨_Laser_Security_System-Arduino_Based_IDS-9D4EDD?style=for-the-badge)](https://github.com/Psi-gh-11/Laser-Security-System)
+
 > Hardware intrusion detection system combining Arduino sensors with a Python backend.
 
 | | |
@@ -118,5 +116,7 @@ Second-year CSE (Cyber Security) student. I build things with security in mind �
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prachiinamdarwork11@gmail.com)
 
 *Open to collaborations and opportunities in cybersecurity.*
+
+</div>
 
 </div>
