@@ -6,18 +6,11 @@
 ╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║   
  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   
 ```
-
+ 
 <div align="center">
 
 # Prachi Shankar Inamdar
-
-<div style="border: 2px solid #9D4EDD; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, rgba(157, 78, 221, 0.1) 0%, rgba(157, 78, 221, 0.05) 100%); display: inline-block; margin: 20px auto;">
-
-### 🔐 Cybersecurity Student
-### 💻 Secure App Developer  
-### ⚡ Ethical Hacking Enthusiast
-
-</div>
+### Cybersecurity Student · Secure App Developer · Ethical Hacking Enthusiast
 
 </div>
 
@@ -41,7 +34,7 @@ I build things with security in mind — from encrypted web apps to hardware-bas
 | **Auth** | bcrypt master password · OTP 2FA via SMTP email |
 | **Vaults** | Passwords · Cards · Notes · API Keys |
 | **Dashboard** | Live password strength scoring across all credentials |
-| **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat&logoColor=white) |
+| **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 
 ---
 
@@ -54,7 +47,7 @@ I build things with security in mind — from encrypted web apps to hardware-bas
 | **Auth** | `password_hash()` · `password_verify()` · 30-day remember-me tokens |
 | **Features** | Task manager · Portfolio builder · User dashboard · Settings |
 | **Storage** | MySQL-backed per-user data persistence |
-| **Stack** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Stack** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
 
 ---
 
@@ -67,7 +60,7 @@ I build things with security in mind — from encrypted web apps to hardware-bas
 | **Hardware** | Arduino laser sensor for breach detection |
 | **Backend** | Python serial communication + alert logic |
 | **Alerts** | Real-time email notifications via SMTP |
-| **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
+| **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) |
 
 ---
 
@@ -123,7 +116,5 @@ I build things with security in mind — from encrypted web apps to hardware-bas
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prachiinamdarwork11@gmail.com)
 
 *Open to collaborations and opportunities in cybersecurity.*
-
-</div>
 
 </div>
