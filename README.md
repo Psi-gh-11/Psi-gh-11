@@ -9,180 +9,109 @@
 
 <div align="center">
 
-[![Cybersecurity](https://img.shields.io/badge/-🔐%20CYBERSECURITY-9D4EDD?style=for-the-badge&labelColor=1a1a2e&logo=security&logoColor=9D4EDD)](https://github.com/Psi-gh-11)
-[![Ethical Hacking](https://img.shields.io/badge/-⚔️%20ETHICAL%20HACKING-9D4EDD?style=for-the-badge&labelColor=1a1a2e&logo=security&logoColor=9D4EDD)](https://github.com/Psi-gh-11)
-[![Security Research](https://img.shields.io/badge/-🔬%20SECURITY%20RESEARCH-9D4EDD?style=for-the-badge&labelColor=1a1a2e&logo=security&logoColor=9D4EDD)](https://github.com/Psi-gh-11)
-
-[![Status](https://img.shields.io/badge/Status-Active-00FF41?style=flat-square&labelColor=0a0e27)](https://github.com/Psi-gh-11?tab=repositories)  
-[![Focus](https://img.shields.io/badge/Focus-Security%20|%20Full--Stack-FF006E?style=flat-square&labelColor=0a0e27)](https://github.com/Psi-gh-11)
+# Prachi Shankar Inamdar
+### Cybersecurity Student · Secure App Developer · Ethical Hacking Enthusiast
 
 </div>
 
 ---
 
-## 🎯 Who Am I?
+## About
 
-```
-> whoami
->> Security-driven developer | Open-source advocate | Lifelong learner
->> Passionate about building fortified systems and exploring edge security domains
->> 0x7365636f6e64 year deep dive into cybersecurity
-```
-
-I'm a security enthusiast who bridges the gap between **offense** and **defense**—crafting resilient applications while exploring vulnerabilities through ethical testing. My journey spans cryptographic implementations, network security fundamentals, and full-stack development with security-first principles. I'm constantly learning, experimenting, and sharing knowledge with the tech community.
+Second-year CSE (Cyber Security) student. I build things with security in mind — from encrypted web apps to hardware-based intrusion detection. Currently exploring network security and packet analysis on Kali Linux.
 
 ---
 
-## 🛡️ Core Competencies
+## Projects
+
+### 🔒 [SecureVault](https://github.com/Psi-gh-11/SecureVault)
+> Password manager with real cryptographic implementation — not just hashing.
+
+| | |
+|---|---|
+| **Encryption** | Fernet (AES-128) on all sensitive fields |
+| **Auth** | bcrypt master password · OTP 2FA via SMTP email |
+| **Vaults** | Passwords · Cards · Notes · API Keys |
+| **Dashboard** | Live password strength scoring across all credentials |
+| **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+
+---
+
+### 📋 [TaskFolio](https://github.com/Psi-gh-11/TaskFolio-Website)
+> Full-stack task manager and portfolio builder with session-based authentication.
+
+| | |
+|---|---|
+| **Auth** | `password_hash()` · `password_verify()` · 30-day remember-me tokens |
+| **Features** | Task manager · Portfolio builder · User dashboard · Settings |
+| **Storage** | MySQL-backed per-user data persistence |
+| **Stack** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
+
+---
+
+### 🚨 [Laser Security System](https://github.com/Psi-gh-11/Laser-Security-System)
+> Hardware intrusion detection system combining Arduino sensors with a Python backend.
+
+| | |
+|---|---|
+| **Hardware** | Arduino laser sensor for breach detection |
+| **Backend** | Python serial communication + alert logic |
+| **Alerts** | Real-time email notifications via SMTP |
+| **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) |
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-| **Security Arsenal** | **Development Stack** | **System Mastery** |
-|:-:|:-:|:-:|
-| `🔐 Cryptography` | `🐍 Python` | `🐧 Linux/Kali` |
-| `🔍 Penetration Testing` | `🌐 Web Stack` | `⚙️ Networking` |
-| `🛡️ Secure Coding` | `🗄️ Databases` | `💻 Windows/Linux` |
-| `🔗 Network Security` | `⚡ REST APIs` | `🔧 Tools & Utilities` |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Security Tools**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-1a1a2e?style=for-the-badge&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-333333?style=for-the-badge&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+**Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Others**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔒 [SecureVault](https://github.com/Psi-gh-11/SecureVault)  
-*Next-gen password management with cryptographic excellence*
-- 🎯 Multi-category vault system (passwords, cards, notes, APIs)
-- 🔐 Military-grade encryption & hashing
-- 🎨 Intuitive dashboard with real-time security scoring
-- ⚡ OTP-based authentication & session hardening
-
-### 📋 [TaskFolio-Website](https://github.com/Psi-gh-11/TaskFolio-Website)  
-*Full-stack portfolio & task management platform*
-- 🗃️ Secure backend with PHP & MySQL integration
-- 🎭 Dynamic frontend with session management
-- 🛡️ Input validation & secure form handling
-- 📱 Responsive design for all devices
-
-### 🚨 [Laser-Security-System](https://github.com/Psi-gh-11/Laser-Security-System)  
-*Real-time intrusion detection & monitoring system*
-- 📡 Arduino-powered sensor integration
-- 🐍 Python backend orchestration
-- ⚠️ Instant email alert mechanism
-- 🎯 Sensitivity calibration for precision detection
-
-### 💾 [Flask-CRUD-App](https://github.com/Psi-gh-11/Flask-CRUD-App)  
-*Lightweight backend framework showcase*
-- 🏗️ RESTful API architecture
-- 🗄️ Database integration patterns
-- 🔄 CRUD operation best practices
-
-### 🐍 [Python-Projects](https://github.com/Psi-gh-11/Python-Projects)  
-*Collection of python automation & scripting experiments*
-- 📚 Learning implementations
-- 🔨 Utility tools
-- 🧪 Proof-of-concepts
-
----
-
-## 💻 Tech Stack
-
-```
-┌─ LANGUAGES
-│  ├─ Primary: Python • C
-│  ├─ Web: PHP • HTML • CSS • JavaScript
-│  └─ Scripting: Bash
-│
-├─ SECURITY DOMAINS
-│  ├─ Applied: Cryptography • Hashing • Encryption
-│  ├─ Testing: Vulnerability Assessment • Penetration Testing
-│  ├─ Tools: Nmap • Burp Suite • Wireshark • OWASP ZAP
-│  └─ Concepts: Authentication • Authorization • Secure Coding
-│
-├─ INFRASTRUCTURE
-│  ├─ Platforms: Linux (Ubuntu, Kali) • Windows
-│  ├─ Databases: MySQL • SQL
-│  └─ Version Control: Git • GitHub
-│
-└─ FRAMEWORKS & PLATFORMS
-   ├─ Backend: Flask • PHP
-   ├─ Hardware: Arduino
-   └─ Analysis: Splunk • Log Analysis
-```
-
----
-
-## 📊 Activity & Contributions
+## Connect
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Psi-gh-11&show_icons=true&theme=nightowl&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=e6edf3&border_color=30363d&border_radius=10)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Psi-gh-11)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prachiinamdarwork11@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Psi-gh-11&layout=compact&theme=nightowl&bg_color=0d1117&title_color=9D4EDD&text_color=e6edf3&border_color=30363d&border_radius=10)
-
-</div>
-
----
-
-## 🎓 Growth & Learning
-
-```
-Current Focus:
-  ✓ Advanced cryptographic protocols & post-quantum security
-  ✓ Cloud security & infrastructure hardening
-  ✓ Full-stack secure application development
-  ✓ Real-world incident response & threat analysis
-  ✓ Contributing to open-source security projects
-
-Learning Path:
-  ► Deepening network security fundamentals
-  ► Exploring emerging cybersecurity domains
-  ► Building practical proof-of-concepts
-  ► Mastering defensive & offensive techniques
-```
-
----
-
-## 🔗 Connect & Collaborate
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Psi-gh-11)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+*Open to collaborations and opportunities in cybersecurity.*
 
 </div>
-
-```
-🤝 Open to cybersecurity discussions, collaboration, and knowledge exchange
-📧 Reach out for security projects, research, or community initiatives
-🔐 Let's build a more secure digital future together
-```
-
----
-
-## 💭 Philosophy
-
-> *"Security is a journey, not a destination. The best defense is understanding the offense."*
-
-```
-$ cat /dev/think.txt
-└─ Every vulnerability is a lesson
-└─ Every system can be more secure
-└─ Every developer should think like a hacker (ethically)
-└─ Every line of code is a potential attack surface
-└─ Together, we build stronger systems
-```
-
----
-
-<div align="center">
-
-**🌐 Thanks for visiting! Feel free to explore, fork, and let's secure the web together.**
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Psi-gh-11.Psi-gh-11&left_color=1a1a2e&right_color=9D4EDD)
-
-</div>
-
-<!---
-Psi-gh-11/Psi-gh-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
